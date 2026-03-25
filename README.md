@@ -48,7 +48,7 @@ Incluye:
 
 # 🐳 DockerLabs
 
-<img src="dockerlabs.png" width="200">
+<img src="img/dockerlabs.png" width="200">
 
 Máquinas resueltas en entorno Docker orientadas a práctica de **pentesting realista**.
 
